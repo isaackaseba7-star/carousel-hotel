@@ -6,8 +6,8 @@ export function CTA({ onBookClick }: { onBookClick: () => void }) {
     <section className="py-24 relative overflow-hidden bg-primary text-white text-center">
       <div className="absolute inset-0 z-0 opacity-20">
         <img 
-          src="https://picsum.photos/seed/carousel-pattern/1920/1080" 
-          alt="Background" 
+          src="https://images.unsplash.com/photo-1542314831-c53cd4b85ca2?auto=format&fit=crop&w=1920&q=80" 
+          alt="Premium Hotel Background" 
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
         />

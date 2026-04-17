@@ -13,8 +13,8 @@ export function About() {
           >
             <div className="aspect-[4/5] rounded-lg overflow-hidden shadow-2xl relative z-10">
               <img 
-                src="https://picsum.photos/seed/carousel-lobby/800/1000" 
-                alt="Carousel Hotel Lobby" 
+                src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=800&q=80" 
+                alt="Carousel Hotel Room" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />

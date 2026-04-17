@@ -6,7 +6,7 @@ const rooms = [
     id: 'standard',
     name: 'Standard Room',
     price: 1007,
-    image: 'https://picsum.photos/seed/standard-room/800/600',
+    image: 'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=800&q=80',
     description: 'Perfect for the solo business traveler needing a comfortable and quiet space.',
     features: ['1 Queen Bed', 'Air Conditioning', 'Free Wi-Fi', 'Work Desk', 'En-suite Bathroom']
   },
@@ -14,7 +14,7 @@ const rooms = [
     id: 'twin',
     name: 'Twin Room',
     price: 1350,
-    image: 'https://picsum.photos/seed/twin-room/800/600',
+    image: 'https://images.unsplash.com/photo-1590490359683-658d3d23f972?auto=format&fit=crop&w=800&q=80',
     description: 'Ideal for colleagues or friends traveling together, featuring two comfortable beds.',
     features: ['2 Single Beds', 'Air Conditioning', 'Free Wi-Fi', 'Seating Area', 'En-suite Bathroom']
   }

@@ -7,8 +7,8 @@ export function Hero({ onBookClick }: { onBookClick: () => void }) {
     <div className="relative min-h-[90vh] flex items-center justify-center pt-20">
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://picsum.photos/seed/hotel-premium-room/1920/1080" 
-          alt="Carousel Hotel Premium Room" 
+          src="https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1920&q=80" 
+          alt="Carousel Hotel Luxury Room" 
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
         />

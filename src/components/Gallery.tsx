@@ -3,10 +3,10 @@ import { motion, AnimatePresence } from 'motion/react';
 import { X, ZoomIn } from 'lucide-react';
 
 const images = [
-  { src: "https://picsum.photos/seed/carousel-room-1/800/600", alt: "Clean hotel rooms", colSpan: "col-span-1 md:col-span-2", rowSpan: "row-span-2" },
-  { src: "https://picsum.photos/seed/carousel-exterior/600/600", alt: "Hotel exterior", colSpan: "col-span-1", rowSpan: "row-span-1" },
-  { src: "https://picsum.photos/seed/biz-travel/600/600", alt: "Business traveler lifestyle", colSpan: "col-span-1", rowSpan: "row-span-1" },
-  { src: "https://picsum.photos/seed/carousel-lobby-art/800/600", alt: "Local authenticity", colSpan: "col-span-1 md:col-span-2", rowSpan: "row-span-1" },
+  { src: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&h=1200&q=80", alt: "Clean hotel rooms", colSpan: "col-span-1 md:col-span-2", rowSpan: "row-span-2" },
+  { src: "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=800&h=600&q=80", alt: "Hotel room interior", colSpan: "col-span-1", rowSpan: "row-span-1" },
+  { src: "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?auto=format&fit=crop&w=800&h=600&q=80", alt: "Hotel amenities", colSpan: "col-span-1", rowSpan: "row-span-1" },
+  { src: "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&h=600&q=80", alt: "Premium suite", colSpan: "col-span-1 md:col-span-2", rowSpan: "row-span-1" },
 ];
 
 export function Gallery() {
